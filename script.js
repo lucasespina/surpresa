@@ -10,5 +10,5 @@ noButton.addEventListener('click', () => {
 });
 
 yesButton.addEventListener('click', () => {
-  window.location.href = 'https://www.youtube.com/watch?v=WiNYFwIfg4w&pp=ygUddGVtIGNhYmFyw6kgZXNzYSBub2l0ZSByZWZyYW8%3D'; // Insira o link desejado aqui
+  window.location.href = 'https://www.youtube.com/watch?v=2Od-X7FQT2Q&pp=ygUNUmljYXJkbyBtaWxsbw%3D%3D'; // Insira o link desejado aqui
 });
